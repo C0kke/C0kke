@@ -1,24 +1,22 @@
-# 👋 Hola, soy Jorge Bustos | **Cokke**
+# Me presento, soy **Cokke**
 
-![Banner](https://img.shields.io/badge/Desarrollo%20Web%20para%20PYMES-red?style=for-the-badge&logo=vercel&logoColor=white)
-
-## 🚀 Desarrollo Web Moderno y Accesible para PYMES
-
-> Transformo ideas en soluciones digitales, de manera personalizada y simple para tu negocio.
+### Desarrollo Páginas y Aplicaciones Web Modernas y Accesibles
+### Transformo ideas en soluciones digitales, de manera personalizada y simple para tu negocio.
 
 ---
 
-### 👨‍💻 Sobre Mí
+## Sobre Mí
 
-Mi nombre es **Jorge Bustos**, pero muchos me conocen como **Cokke**.  
+Mi nombre es **Jorge Bustos**, pero me conocen como **Cokke**.  
 Estudiante de Ingeniería Civil en Informática y Computación, especializado en desarrollo web y aplicaciones a medida. Me apasiona ayudar a pymes a potenciar su presencia digital con soluciones prácticas y modernas.
 
-- 🎓 **Penúltimo año de Ingeniería**
-- 🛡️ **Certificaciones**:
-  - ![Oracle](https://img.shields.io/badge/-Oracle%20One%20Back--end%20JavaSpring-informational?logo=oracle)
-  - ![Google UX](https://img.shields.io/badge/-Google%20UX%20Design-informational?logo=google)
-- 🌎 Basado en **Chile** (trabajo remoto disponible)
-- 💪 **Especialidad:** Full Stack Web (React, NestJS, Java Spring)
+- **4° año de Ingeniería**
+- **Certificaciones**:
+  - [Oracle Next Education: Back-end with Java & Spring Boot](https://app.aluracursos.com/program/certificate/4c3722e3-852c-495b-844c-8acdf1775114)
+  - Coursera: Google UX Design
+    > En Proceso
+- Vivo en Chile (trabajo remoto disponible)
+- **Especialidad:** Full Stack Web (React, NestJS, Java Spring)
 
 ---
 
@@ -37,10 +35,10 @@ Estudiante de Ingeniería Civil en Informática y Computación, especializado en
 |------------------------------|------------------------------------------------|-----------------------------|------------------|
 | **E-commerce para PYME**     | Tienda online con carrito y panel admin        | React · NestJS · PostgreSQL | [Ver Repo](#)    |
 | **Sistema de Gestión CRM**   | CRM personalizado para pymes                   | Java · Spring Boot · MySQL  | [Ver Repo](#)    |
-| **Landing Page Corporativa** | Web responsiva con formulario de contacto      | HTML · CSS · JS             | [Ver Repo](#)    |
-| **API REST**                 | Backend escalable con autenticación JWT        | NestJS · MongoDB            | [Ver Repo](#)    |
-| **Dashboard Analytics**      | Panel con métricas en tiempo real              | React · Redis               | [Ver Repo](#)    |
-| **App Móvil Web**            | PWA para gestión de inventarios                | React · PostgreSQL          | [Ver Repo](#)    |
+| **Forohub**                  |       | HTML · CSS · JS             |     |
+| **API REST**                 | Backend para gestionar una libreria propia     | Java · Spring Boot          | [Ver Repo](https://github.com/C0kke/Literalura)    |
+| **Conversor de Monedas**     | Consumo de Api de currency exchange            | Java                        | [Ver Repo](https://github.com/C0kke/ConversorDeMonedas)    |
+| **Enpriptador**              | Encriptador de mensajes                        | HTML · CSS                  | [Ver Demo](https://jorgerandomgamer.github.io/Encriptador)    |
 
 ---
 
@@ -57,11 +55,11 @@ Estudiante de Ingeniería Civil en Informática y Computación, especializado en
 ---
 
 ### 🌟 ¿Por qué elegirme?
-- Experiencia en soluciones para pymes
-- Proceso claro, lenguaje simple, acompañamiento real
-- Atención personalizada y soporte post-desarrollo
+- Te ayudo a desarrollar tu idea mientras desarrollo mi experiencia
+- Acompañamiento real y comunicación constante
+- Atención y soporte post-desarrollo
 
 ---
 
-_Hecho con pasión por el código, café ☕ y ganas de ayudar a tu pyme a crecer._
+_Hecho con ganas de ayudarte._
 
