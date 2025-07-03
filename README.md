@@ -38,7 +38,7 @@ Estudiante de Ingeniería Civil en Informática y Computación, especializado en
 | **Forohub**                  |       | HTML · CSS · JS             |     |
 | **API REST**                 | Backend para gestionar una libreria propia     | Java · Spring Boot          | [Ver Repo](https://github.com/C0kke/Literalura)    |
 | **Conversor de Monedas**     | Consumo de Api de currency exchange            | Java                        | [Ver Repo](https://github.com/C0kke/ConversorDeMonedas)    |
-| **Enpriptador**              | Encriptador de mensajes                        | HTML · CSS                  | [Ver Demo](https://jorgerandomgamer.github.io/Encriptador)    |
+| **Enpriptador**              | Encriptador de mensajes                        | HTML · CSS                  | [Ver Demo](https://C0kke.github.io/Encriptador)    |
 
 ---
 
