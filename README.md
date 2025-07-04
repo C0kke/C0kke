@@ -1,14 +1,14 @@
 # Me presento, soy **Cokke**
 
 ### Desarrollo Páginas y Aplicaciones Web Modernas y Accesibles
-### Transformo ideas en soluciones digitales, de manera personalizada y simple para tu negocio.
+### Transformo ideas en soluciones digitales, de manera personalizada y simple para tu proyecto.
 
 ---
 
 ## Sobre Mí
 
-Mi nombre es **Jorge Bustos**, pero me conocen como **Cokke**.  
-Estudiante de Ingeniería Civil en Informática y Computación, especializado en desarrollo web y aplicaciones a medida. Me apasiona ayudar a pymes a potenciar su presencia digital con soluciones prácticas y modernas.
+Mi nombre es **Jorge Bustos**, pero me conocen como Cokke.  
+Estudiante de Ingeniería Civil en Computación e Informática, me centro en desarrollo web y aplicaciones. Me apasiona ayudar y conocer nuevas ideas para ganar más conocimiento ofreciendo soluciones prácticas y experiencia.
 
 - **4° año de Ingeniería**
 - **Certificaciones**:
