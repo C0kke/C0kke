@@ -31,14 +31,15 @@ Estudiante de Ingeniería Civil en Informática y Computación, especializado en
 ### 🧩 Proyectos Destacados
 
 <!-- Actualiza los enlaces a tus repositorios reales cuando estén listos -->
-| Proyecto                     | Descripción                                    | Tecnologías                 | Demo/Repo        |
-|------------------------------|------------------------------------------------|-----------------------------|------------------|
-| **E-commerce para PYME**     | Tienda online con carrito y panel admin        | React · NestJS · PostgreSQL | [Ver Repo](#)    |
-| **Sistema de Gestión CRM**   | CRM personalizado para pymes                   | Java · Spring Boot · MySQL  | [Ver Repo](#)    |
-| **Forohub**                  |       | HTML · CSS · JS             |     |
-| **API REST**                 | Backend para gestionar una libreria propia     | Java · Spring Boot          | [Ver Repo](https://github.com/C0kke/Literalura)    |
-| **Conversor de Monedas**     | Consumo de Api de currency exchange            | Java                        | [Ver Repo](https://github.com/C0kke/ConversorDeMonedas)    |
-| **Enpriptador**              | Encriptador de mensajes                        | HTML · CSS                  | [Ver Demo](https://C0kke.github.io/Encriptador)    |
+| Proyecto                     | Descripción                                    | Tecnologías                 | Demo/Repo                                               |
+|------------------------------|------------------------------------------------|-----------------------------|---------------------------------------------------------|
+| **Screenmatch**              | Biblioteca Digital de series y películas       | Java · Spring Boot          | [Ver Repo](https://github.com/C0kke/Screenmatch)        |
+|                              |                                                | PostgreSQL · API REST       |                                                         |
+| **Proyect Breakout**         | Juego clásico Block Breaker con js             | Java · Spring Boot · MySQL  | [Ver Repo](https://github.com/C0kke/ProyectBreakout)    |
+| **Forohub**                  |                                                | HTML · CSS · JS             |                                                         |
+| **API REST**                 | Backend para gestionar una libreria propia     | Java · Spring Boot          | [Ver Repo](https://github.com/C0kke/Literalura)         |
+| **Conversor de Monedas**     | Consumo de Api de currency exchange            | Java                        | [Ver Repo](https://github.com/C0kke/ConversorDeMonedas) |
+| **Enpriptador**              | Encriptador de mensajes                        | HTML · CSS                  | [Ver Demo](https://C0kke.github.io/Encriptador)         |
 
 ---
 
