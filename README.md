@@ -9,8 +9,9 @@
 
 Mi nombre es **Jorge Bustos**, pero me conocen como Cokke.  
 Estudiante de Ingeniería Civil en Computación e Informática, me centro en desarrollo web y aplicaciones. Me apasiona ayudar y conocer nuevas ideas para ganar más conocimiento ofreciendo soluciones prácticas y experiencia.
+Actualmente trabajando en Aythen
 
-- **4° año de Ingeniería**
+- **5° año de Ingeniería**
 - **Certificaciones**:
   - [Oracle Next Education: Back-end with Java & Spring Boot](https://app.aluracursos.com/program/certificate/4c3722e3-852c-495b-844c-8acdf1775114)
   - Coursera: Google UX Design
